@@ -1,0 +1,6 @@
+framework module Pods_EmbedNativeDemo_SwiftUITests {
+  umbrella header "Pods-EmbedNativeDemo_SwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
