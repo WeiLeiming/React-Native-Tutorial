@@ -5,9 +5,9 @@
 
 [React Native官网](http://facebook.github.io/react-native/)
 
-[React Native中文网](http://reactnative.cn/docs/0.44/getting-started.html)
+[React Native中文网](https://reactnative.cn/)
 
-[reactnativecn/react-native-guide](reactnativecn/react-native-guide)
+[reactnativecn/react-native-guide](https://github.com/reactnativecn/react-native-guide)
 
 [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native)
 
